@@ -1,0 +1,33 @@
+.origami{
+
+    width:520px;
+    font-family: fantasy;
+   
+ 
+}
+
+a:hover{
+    color:red;
+}
+
+body{
+    background-color:#808080
+    
+}
+
+.d1{
+    display:flex;
+    justify-content: baseline;
+}
+
+.d2{
+    display:flex;
+    justify-content: baseline;
+}
+
+.d3{
+    display:flex;
+    justify-content: baseline;
+}
+
+
